@@ -3,7 +3,7 @@ Predicting Medical Expenses from US data.
 
 Model(Age, BMI, No. of children, Smoker, Region) ---> Expenses.
 
-Insights:
+Here are some major insights:
 - Compared and analyzed each variable with the target variable. 
 - Found most of the charges are between the range of 2000 to 15000 USD.
 - Highest amount of cost for customers age less then 19 is 5000 USD.
